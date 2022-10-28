@@ -1,0 +1,4 @@
+../Src/GPIO_02_INT.c:11:6:delay	16	static
+../Src/GPIO_02_INT.c:17:6:EXTI15_10_IRQHandler	8	static
+../Src/GPIO_02_INT.c:24:6:GPIO_setup	8	static
+../Src/GPIO_02_INT.c:44:5:main	8	static
