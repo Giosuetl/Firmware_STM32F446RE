@@ -1,0 +1,3 @@
+../Drivers/Src/stm32f446xx_nvic.c:4:6:NVIC_IRQ_Enable	16	static
+../Drivers/Src/stm32f446xx_nvic.c:19:6:NVIC_IRQ_Disable	16	static
+../Drivers/Src/stm32f446xx_nvic.c:34:6:NVIC_Priority	24	static

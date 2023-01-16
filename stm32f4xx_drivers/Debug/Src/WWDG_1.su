@@ -1,0 +1,11 @@
+../Src/WWDG_1.c:22:6:delay_ms	16	static
+../Src/WWDG_1.c:28:6:SysTick_Handler	4	static
+../Src/WWDG_1.c:34:6:GPIO_setup	8	static
+../Src/WWDG_1.c:54:6:SYSTICK_setup	16	static
+../Src/WWDG_1.c:64:6:WWDG_setup	8	static
+../Src/WWDG_1.c:73:5:main	8	static
+../Src/WWDG_1.c:99:6:min11max25	16	static
+../Src/WWDG_1.c:104:6:generate_fault	16	static
+../Src/WWDG_1.c:114:6:HardFault_Handler	4	static
+../Src/WWDG_1.c:119:6:SYSCLK_PLL_setup	40	static
+../Src/WWDG_1.c:156:6:assert_failed	16	static
