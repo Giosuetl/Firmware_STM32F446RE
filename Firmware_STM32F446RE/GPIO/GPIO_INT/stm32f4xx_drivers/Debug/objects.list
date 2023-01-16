@@ -1,3 +1,0 @@
-"./Drivers/Src/stm32f446xx_gpio.o"
-"./Src/GPIO_02_INT.o"
-"./Startup/startup_stm32f446retx.o"
